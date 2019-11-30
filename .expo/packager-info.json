@@ -2,8 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 5259,
+  "packagerPid": 10019,
   "expoServerNgrokUrl": "https://z6-amc.anonymous.tutorial-shop-app.exp.direct",
   "packagerNgrokUrl": "https://packager.z6-amc.anonymous.tutorial-shop-app.exp.direct",
-  "ngrokPid": 5326
+  "ngrokPid": 10041,
+  "webpackServerPort": null
 }
